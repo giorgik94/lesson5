@@ -1,0 +1,220 @@
+body {
+	background-color: #F6F8F9;
+}
+header {
+	height: 50px;
+	width: 100%;
+	background-color: #F6F8F9;
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 100;
+}
+.inlineblock {
+	display: inline-block;
+}
+.logo1 {
+	padding: 18px 0px 17px 20px;
+	margin-right: 92px;
+	vertical-align: middle;
+}
+.navigation {
+	vertical-align: middle;
+}
+.navhome {
+	margin-right: 27px;
+	font-size: 11px;
+}
+.active {
+	color: #343638;
+}
+.navdiscovery {
+	margin-right: 22px;
+	color: #707070;
+	font-size: 11px;
+}
+.navphotos {
+	margin-right: 22px;
+	color: #707070;
+	font-size: 11px;
+}
+.navcontact {
+	margin-right: 40px;
+	color: #707070;
+	font-size: 11px;
+}
+.profile {
+	vertical-align: middle;
+	margin-right: auto;
+}
+.trending {
+	width: 1160px;
+	height: 410px;
+	margin-top: 75px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.imageheading {
+	font-size: 16px;
+	color: #FFFFFF;
+}
+.paragraph {
+	width: 280px;
+	height: 38px;
+}
+.paragraphtext {
+	font-size: 13px;
+	color: #A6ADB4;
+}
+.postimage {
+	display: block;
+}
+.datetext {
+	font-size: 13px;
+	color: #A6ADB4;
+}
+.happeningnowheading {
+	font-size: 24px;
+	color: #202124;
+}
+.trending-sub-div1 {
+	background-color: #FFFFFF;
+	margin-right: 40px;
+	width: 360px;
+	height: 350px;
+	vertical-align: top;
+}
+.trending-sub-div2 {
+	background-color: #FFFFFF;
+	margin-right: 40px;
+	width: 360px;
+	height: 350px;
+	vertical-align: top;
+}
+.trending-sub-div3 {
+	background-color: #FFFFFF;
+	width: 360px;
+	height: 350px;
+	vertical-align: top;
+}
+.trendingheading {
+	margin-bottom: 40px;
+	font-size: 24px;
+	color: #202124;
+}
+.image-wrapper{
+	position: relative;
+	margin-bottom: 66px;
+}
+.imageheading {
+	position: absolute;
+	bottom: 136px;
+	left: 40px;
+}
+.paragraph {
+	margin-bottom: 10px;
+	padding-left: 40px;
+	font-size: 13px;
+}
+.date {
+	padding-left: 40px;
+	padding-bottom: 40px;
+}
+.clock {
+	vertical-align: middle;
+}
+.datetext {
+	vertical-align: middle;
+}
+.imageblock {
+	display: block;
+}
+.leftblock {
+	vertical-align: top;
+	margin-right: 40px;
+}
+.rightblock {
+	vertical-align: top;
+}
+.happeningnow {
+	width: 1160px;
+	height: 960px;
+	margin: 58px auto 37px auto;
+}
+.bridge {
+	margin-bottom: 40px;
+}
+.happeningnowheading {
+	margin-bottom: 40px;
+}
+.spilo {
+	margin-bottom: 102px;
+}
+.parrot {
+	margin-bottom: 102px;
+}
+footer {
+	height: 200px;
+	width: 100%;
+	background-color: #A6ADB4;
+}
+.footer-wrapper {
+	width: 1160px;
+	height: 200px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.logo2 {
+	display:inline-block;
+	padding-top: 56px;
+	padding-bottom: 129px;
+	vertical-align: top;
+	margin-right: 90px;
+}
+.footerlist1 {
+	vertical-align: top;
+	padding-top: 56px;
+}
+.footerlist2 {
+	vertical-align: top;
+	padding-top: 56px;
+	margin-left: 90px;
+}
+.footerlist3 {
+	vertical-align: top;
+	padding-top: 56px;
+	margin-left: 90px;
+}
+.footerlists {
+	margin-bottom: 8px;
+}
+.footerparagraph {
+	vertical-align: top;
+	padding-top: 56px;
+	margin-left: 110px;
+	margin-right: 165.2px;
+	font-size: 11px;
+	color: #CBD0D3;
+}
+.socialicons {
+	width: 172px;
+	height: 16px;
+	vertical-align: top;
+	padding-top: 56px;
+}
+.facebook {
+	margin-right: 32px;
+}
+.instagram {
+	margin-right: 32px;
+}
+.twitter {
+	margin-right: 32px;
+}
+.datetext::after {
+	content:' \2705';
+}
+.footerlistvalue {
+	font-size: 13px;
+	color: #CBD0D3;
+}
